@@ -275,11 +275,12 @@ if (number >= 90){
 }else if(number < 60){
   return 'you got an F';
 }
+}
 console.log('task7' , grade(82));
 
 
 
-/*💪💪💪💪💪💪💪💪💪💪 Stretch 💪💪💪💪💪💪💪💪💪💪*/
+ /*💪💪💪💪💪💪💪💪💪💪 Stretch 💪💪💪💪💪💪💪💪💪💪*/
 
 //Vowel Counter - How many vowels are there?
 /*
@@ -314,4 +315,5 @@ module.exports = {
   miles,
   feet,
   annoyingSong,
-  grade}
+  grade
+} 
